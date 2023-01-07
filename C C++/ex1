@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+// Ex.1 Faça um programa que leia um numero inteiro e o imprima
+
+int main(){
+    int idade = 31;
+    printf("O numero inteiro é: %d",idade);
+
+    return 0;
+}
