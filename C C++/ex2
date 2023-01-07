@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+//Ex.2 Faça um programa que leia um numero real e o imprima
+
+int main()
+{
+    
+    float passagem = 16.5;
+    printf("o numero real é: %f", passagem);
+
+    return 0;
+}
