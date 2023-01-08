@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+// Leia um numero real e imprima a quinta parte deste numero;
+{
+  
+   float entrada = 35.4;
+   printf ("O numero real é:%f\n", entrada);
+
+   float quintaParte = entrada * 1/5;
+   printf ("A quinta parte de %f eh: \n %f\n",  entrada, quintaParte);
+
+   return 0;
+}
+
